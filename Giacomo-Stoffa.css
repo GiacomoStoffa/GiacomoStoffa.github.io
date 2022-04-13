@@ -425,7 +425,7 @@
 .u-section-3 .u-image-1 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -471,7 +471,7 @@
 .u-section-3 .u-image-2 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -510,7 +510,7 @@
 .u-section-3 .u-image-3 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -549,7 +549,7 @@
 .u-section-3 .u-image-4 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -583,7 +583,7 @@
 .u-section-3 .u-image-5 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -617,7 +617,7 @@
 .u-section-3 .u-image-6 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -651,7 +651,7 @@
 .u-section-3 .u-image-7 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -685,7 +685,7 @@
 .u-section-3 .u-image-8 {
   width: 59px;
   height: 59px;
-  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-image: url("images/logo_small_icon_only.png");
   background-position: 50% 50%;
   margin: 15px auto 0;
 }
@@ -1101,6 +1101,8 @@
 .u-section-4 .u-image-2 {
   width: 207px;
   height: 207px;
+  background-image: url("images/logo2.jpg");
+  background-position: 50% 50%;
   margin: 39px 391px 0 auto;
 }
 
