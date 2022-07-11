@@ -4,7 +4,7 @@
 
 .u-section-1 .u-shape-1 {
   height: 403px;
-  margin-top: 0;
+  margin-top: -101px;
   margin-bottom: 0;
   background-image: none;
 }
@@ -16,7 +16,7 @@
   background-position: 50% 20.85%;
   animation-duration: 1000ms;
   box-shadow: 0 2px 8px 0 rgba(128,128,128,1);
-  margin: -206px auto 0;
+  margin: -105px auto 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -47,13 +47,17 @@
 
 @media (max-width: 1199px) {
   .u-section-1 {
-    min-height: 919px;
+    min-height: 918px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: -98px;
   }
 
   .u-section-1 .u-image-1 {
     width: 238px;
     height: 238px;
-    margin-top: -191px;
+    margin-top: -93px;
     margin-right: calc(((100% - 940px) / 2) + 333px);
   }
 
@@ -733,6 +737,40 @@
   padding: 8px 24px 9px 22px;
 }
 
+.u-section-3 .u-container-layout-9 {
+  padding: 30px 65px;
+}
+
+.u-section-3 .u-image-9 {
+  width: 59px;
+  height: 59px;
+  background-image: url("images/logo_small_icon_only.png?rand=53ee");
+  background-position: 50% 50%;
+  margin: 15px auto 0;
+}
+
+.u-section-3 .u-text-18 {
+  font-size: 1.25rem;
+  margin: 104px 0 0 30px;
+}
+
+.u-section-3 .u-text-19 {
+  font-weight: 700;
+  margin: 86px auto 0;
+}
+
+.u-section-3 .u-btn-10 {
+  background-image: linear-gradient(to right, #478ac9, #2cccc4);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.07143rem;
+  letter-spacing: 1px;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: 51px auto 0;
+  padding: 8px 24px 9px 22px;
+}
+
 .u-section-3 .u-carousel-control-1 {
   width: 43px;
   height: 43px;
@@ -778,6 +816,10 @@
   }
 
   .u-section-3 .u-text-16 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-18 {
     margin-left: 0;
   }
 }
@@ -964,6 +1006,29 @@
     margin-top: 43px;
     margin-right: 13px;
   }
+
+  .u-section-3 .u-container-layout-9 {
+    padding: 0 60px;
+  }
+
+  .u-section-3 .u-image-9 {
+    margin-top: 45px;
+  }
+
+  .u-section-3 .u-text-18 {
+    width: auto;
+    margin-top: 59px;
+  }
+
+  .u-section-3 .u-text-19 {
+    width: auto;
+    margin-top: 59px;
+  }
+
+  .u-section-3 .u-btn-10 {
+    margin-top: 43px;
+    margin-right: 13px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -1094,6 +1159,19 @@
   }
 
   .u-section-3 .u-btn-9 {
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-18 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-3 .u-btn-10 {
     margin-right: auto;
   }
 }.u-section-4 .u-blog-1 {
