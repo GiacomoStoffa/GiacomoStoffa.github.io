@@ -34795,15 +34795,18 @@ a.u-link.u-text-hover-grey-90:hover {
 /*end-variables sitestylecss*/
 .u-header .u-section-row-1 {
   background-image: none;
+}
+
+.u-header .u-sheet-1 {
   min-height: 69px;
 }
 
 .u-header .u-image-1 {
-  width: calc(((100% - 1140px) / 2) + 33px);
+  width: 113px;
   height: 67px;
-  margin: 0 auto 2px 0;
+  margin: 2px auto 2px 0;
 }
-.u-header .u-sheet-1 {
+.u-header .u-sheet-2 {
   min-height: 100px;
 }
 @media (max-width: 1199px) {
